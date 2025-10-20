@@ -10,5 +10,6 @@ Somos una empresa especializada en servicios blockchain y desarrollo de software
 - Consultoría tecnológica
 
 ### 🔗 Enlaces
-- 🌐 **Website:** [tripkode.space](https://tripkode.space/)
+- 🌐 **TripKode:** [tripkode.space](https://tripkode.space/)
+- 🌐 **KodeChain:** [kodechain.site](https://kodechain.site/)
 - 📧 **Email:** helpertripcode@gmail.com
