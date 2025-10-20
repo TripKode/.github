@@ -10,5 +10,5 @@ Somos una empresa especializada en servicios blockchain y desarrollo de software
 - Consultoría tecnológica
 
 ### 🔗 Enlaces
-- 🌐 **Website:** [tripkode.vercel.app](https://tripkode.vercel.app/)
+- 🌐 **Website:** [tripkode.space](https://tripkode.space/)
 - 📧 **Email:** helpertripcode@gmail.com
