@@ -1,8 +1,8 @@
-# TripKode, Inc.
+# TripKode, Corp.
 
 ## 🚀 Blockchain as a Service & Software Solutions
 
-Somos una empresa especializada en servicios blockchain y desarrollo de software, ubicada en Colombia.
+Especializados en servicios blockchain y desarrollo de software
 
 ### 🌟 Lo que hacemos
 - Desarrollo de aplicaciones blockchain
@@ -11,5 +11,6 @@ Somos una empresa especializada en servicios blockchain y desarrollo de software
 
 ### 🔗 Enlaces
 - 🌐 **TripKode:** [tripkode.space](https://tripkode.space/)
+- 🌐 **KodeTap:** [kodetap.site](https://kodetap.site/)
 - 🌐 **KodeChain:** [kodechain.site](https://kodechain.site/)
 - 📧 **Email:** helpertripcode@gmail.com
