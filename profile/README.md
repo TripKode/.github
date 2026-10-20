@@ -4,7 +4,7 @@
 
 Specializing in blockchain services and software-as-a-service development for everyone
 
-🌐 **TripKode:** [tripkode.space](https://tripkode.space/)
+🌐 **TripKode:** [tripkode.space](https://tripkode.site/)
 🌐 **KodeTap:** [kodetap.site](https://kodetap.site/)
 🌐 **KodeChain:** [kodechain.site](https://kodechain.site/)
 
